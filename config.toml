@@ -1,0 +1,4 @@
+baseURL = "https://stockimagenooh.vercel.app"
+languageCode = "en-us"
+title = "stock & Image Quotes 2021"
+theme = "tale-hugo-master"
